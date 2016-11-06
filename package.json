@@ -1,0 +1,18 @@
+{
+  "name": "PokemonMap",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react": "15.3.1",
+    "react-native": "0.32.0",
+    "react-native-grid-view": "^0.4.1",
+    "react-native-maps": "^0.8.0",
+    "react-native-tabs": "^1.0.9",
+    "react-native-toolkit": "0.0.5",
+    "react-timer-mixin": "^0.13.3",
+    "underscore": "^1.8.3"
+  }
+}
