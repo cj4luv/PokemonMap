@@ -12,7 +12,7 @@ class ProfileView extends Component {
   render() {
     return (
       <View>
-        <Text>profileView</Text>
+        <Text>profileView!</Text>
       </View>
     );
   }
